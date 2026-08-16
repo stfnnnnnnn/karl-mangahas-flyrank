@@ -6,6 +6,6 @@ export default defineConfig({
   base: "/karl-mangahas-flyrank/",
   build: {
     outDir: "docs",
-    emptyOutDir: true,
+    emptyOutDir: false,
   },
 });
